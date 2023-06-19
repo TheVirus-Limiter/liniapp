@@ -32,11 +32,12 @@ header{
 	display: flex;
     align-items: center; 
 	justify-content: space-around; 
-    background: transparent;
 	position: fixed;
 	top: 0;
 	transition: 0.3s;
 	z-index: 5;
+	opacity: 1;
+	background: var(--main-header-background);
 }
 .nav-show{
 	opacity: 0;
