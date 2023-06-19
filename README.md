@@ -1,10 +1,10 @@
-#Lini
+# Lini
 
-##Description
+## Description
 
 Lini is a revolutionary app that aims to transform the way we wait in line. It provides users with a seamless and efficient way to reserve their spot in line, saving them valuable time and enhancing their overall experience.
 
-##Key Features
+## Key Features
 
 Line Reservation: Users can easily reserve their place in line for various establishments, events, and popular attractions.
 
@@ -16,20 +16,22 @@ Real-Time Updates: Users receive real-time updates and notifications about their
 
 Social Integration: Lini allows users to connect with others, share experiences, and even trade their line positions with fellow users.
 
-##Technologies Used
+## Technologies Used
 
-React: A popular JavaScript library for building user interfaces.
-Node.js: A JavaScript runtime environment for server-side development.
-Express: A web application framework for Node.js.
-MongoDB: A flexible and scalable NoSQL database.
-Redux: A predictable state management library for JavaScript applications.
+- React: A popular JavaScript library for building user interfaces.
+- Node.js: A JavaScript runtime environment for server-side development.
+- Express: A web application framework for Node.js.
+- MongoDB: A flexible and scalable NoSQL database.
+- Redux: A predictable state management library for JavaScript applications.
 
-BUT ALL OF THIS IS STILL A VISION AND NEEDS FUNDING
+**BUT ALL OF THIS IS STILL A VISION AND NEEDS FUNDING**
 
-##Donate
+# Donate
 
 Donate to Lini to make these dreams reality through this link: https://www.gofundme.com/f/lini-trade-spots-in-line
 
 Thank you!
 
-![https://media.discordapp.net/attachments/1015767195596370042/1120407336511619192/Untitled.jpg?width=1126&height=633]
+---
+
+![Logo](https://media.discordapp.net/attachments/1015767195596370042/1120407336511619192/Untitled.jpg?width=1126&height=633)
